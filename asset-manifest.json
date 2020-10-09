@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react_habit_tracker/static/css/main.de8df93f.chunk.css",
-    "main.js": "/react_habit_tracker/static/js/main.4807bbc1.chunk.js",
-    "main.js.map": "/react_habit_tracker/static/js/main.4807bbc1.chunk.js.map",
+    "main.js": "/react_habit_tracker/static/js/main.58008fb7.chunk.js",
+    "main.js.map": "/react_habit_tracker/static/js/main.58008fb7.chunk.js.map",
     "runtime-main.js": "/react_habit_tracker/static/js/runtime-main.2538eb4d.js",
     "runtime-main.js.map": "/react_habit_tracker/static/js/runtime-main.2538eb4d.js.map",
     "static/js/2.02e277e7.chunk.js": "/react_habit_tracker/static/js/2.02e277e7.chunk.js",
     "static/js/2.02e277e7.chunk.js.map": "/react_habit_tracker/static/js/2.02e277e7.chunk.js.map",
     "index.html": "/react_habit_tracker/index.html",
-    "precache-manifest.91c703074a669abdf608d9c8b76040ae.js": "/react_habit_tracker/precache-manifest.91c703074a669abdf608d9c8b76040ae.js",
+    "precache-manifest.500a931e0ea9c10a7d335c13bc4ecb02.js": "/react_habit_tracker/precache-manifest.500a931e0ea9c10a7d335c13bc4ecb02.js",
     "service-worker.js": "/react_habit_tracker/service-worker.js",
     "static/css/main.de8df93f.chunk.css.map": "/react_habit_tracker/static/css/main.de8df93f.chunk.css.map",
     "static/js/2.02e277e7.chunk.js.LICENSE.txt": "/react_habit_tracker/static/js/2.02e277e7.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2538eb4d.js",
     "static/js/2.02e277e7.chunk.js",
     "static/css/main.de8df93f.chunk.css",
-    "static/js/main.4807bbc1.chunk.js"
+    "static/js/main.58008fb7.chunk.js"
   ]
 }
