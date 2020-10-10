@@ -102,8 +102,9 @@ class App extends Component {
 
   render() {
     console.log("app");
+    // <React.Fragment>
+    // </React.Fragment>
     return (
-      // <React.Fragment>
       <>
         <Navbar
           totalCount={this.state.habits.filter((item) => item.count > 0).length}
@@ -117,7 +118,6 @@ class App extends Component {
           onReset={this.handleReset}
         />
       </>
-      // </React.Fragment>
     );
   }
 }

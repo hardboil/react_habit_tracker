@@ -62,9 +62,12 @@ class Habits extends Component {
   render() {
     console.log("habits");
     // {this.state.habits.map((habit) => ())}
+    // ? 여러개의  element를 반환할 경우
+    //   * <React.Fragment>
+    //   * <>
+    //   * </>
+    //   * </React.Fragment>
     return (
-      //   <React.Fragment>
-      //   <>
       <div className="habits">
         <HabitAddForm onAdd={this.handleAdd} />
         <ul>
@@ -82,8 +85,6 @@ class Habits extends Component {
           Reset All
         </button>
       </div>
-      //   </>
-      //   </React.Fragment>
     );
   }
 }
